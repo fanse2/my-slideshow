@@ -8,4 +8,4 @@ setInterval(()=>{
     window.location = 'index.html#' + pages[counter].id
     counter ++
 
-},5000)
+},7000)
